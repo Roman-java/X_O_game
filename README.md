@@ -1,1 +1,1 @@
-# X_O_game
+X_O game v1.0
